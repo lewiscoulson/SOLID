@@ -50,6 +50,6 @@ swissArmyKnife.setColor(blue);
 swissArmyKnife.getColor();
 
 // The first example requires the developer to change the color inside the constructor and hence modify existing code.
-// The second example, although more code is required, we can now safely switch out different behaviours nad properties of a object.
+// The second example, although more code is required, we can now safely switch out different behaviours and properties of a object.
 
 // Benefits - flexibility, reusability, maintainability
